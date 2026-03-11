@@ -1,0 +1,6 @@
+{
+  "agreement_accuracy": 0.29891304347826086,
+  "severity_accuracy": 0.33695652173913043,
+  "edit_type_accuracy": 0.30978260869565216,
+  "composite_score": 0.005434782608695652
+}
