@@ -45,7 +45,7 @@ The RADAR dataset is also the foundation of **Task 2: Report Discrepancy Summari
 
 - **Platform:** [AI4MediaBench](https://ai4media-bench.aimultimedialab.ro/competitions/7/)
 - **Task:** ImageCLEFmed MEDIQA-CORE 2026, Task 2
-- **Organizer:** POLITEHNICA Bucharest AIMultimediaLab
+- **Organizer:** Microsoft and University of Washington
 
 ---
 
