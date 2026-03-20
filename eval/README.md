@@ -74,7 +74,7 @@ bash eval.sh
 
 ### Metric Definitions
 
-- **agreement_accuracy** — Exact-match accuracy on the `agreement` label. A fuzzy match treats `agree` and `partially agree` as equivalent when both the prediction and the gold label fall within that set.
+- **agreement_accuracy** — Exact-match accuracy on the `agreement` label (`agree`, `partially agree`, and `disagree` are treated as distinct classes).
 - **severity_accuracy** — Exact-match accuracy on the `severity` label.
 - **edit_type_accuracy** — Exact-match accuracy on the `edit_type` label.
 - **composite_score** — Fraction of rows where the agreement fuzzy-matches *and* both severity and edit type exactly match. This is the primary metric for the shared task leaderboard.

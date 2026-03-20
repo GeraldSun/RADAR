@@ -40,9 +40,8 @@ The paper presents the RADAR dataset, task formulation, expert annotation method
 
 ## Shared Task: ImageCLEFmed MEDIQA-CORE 2026
 
-The RADAR dataset is also the foundation of **Task 2: Report Discrepancy Summarization** in the [ImageCLEFmed MEDIQA-CORE 2026](https://ai4media-bench.aimultimedialab.ro/competitions/7/#overview/page/2) shared task, organized by POLITEHNICA Bucharest AIMultimediaLab.
+The RADAR dataset is also the foundation of **Task 2: Report Discrepancy Summarization** in the [ImageCLEFmed MEDIQA-CORE 2026](https://ai4media-bench.aimultimedialab.ro/competitions/7/#overview/page/2) shared task, organized by Microsoft and University of Washington.
 
-The shared task invites participants to develop systems that can analyze and summarize discrepancies between preliminary and attending radiologist reports. Participants submit predictions on the test set through the AI4MediaBench platform.
 
 - **Platform:** [AI4MediaBench](https://ai4media-bench.aimultimedialab.ro/competitions/7/)
 - **Task:** ImageCLEFmed MEDIQA-CORE 2026, Task 2
@@ -100,10 +99,10 @@ Performance on the dev set is measured by four metrics:
 
 | Metric | Description |
 |---|---|
-| **Agreement accuracy** | Exact-match accuracy on the agreement label (with fuzzy match between `agree` and `partially agree`) |
+| **Agreement accuracy** | Exact-match accuracy on the agreement label (`agree`, `partially agree`, and `disagree` are treated as distinct classes) |
 | **Severity accuracy** | Exact-match accuracy on the severity label |
 | **Edit type accuracy** | Exact-match accuracy on the edit type label |
-| **Composite score** | Fraction of examples where all three labels are simultaneously correct |
+| **Composite score** | Fraction of examples where the agreement fuzzy-matches *and* both severity and edit type exactly match. |
 
 See [`eval/`](eval/) for the evaluation script and submission format details.
 
