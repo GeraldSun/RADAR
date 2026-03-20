@@ -1,0 +1,185 @@
+edit_id,agreement_pred,severity_pred,edit_type_pred
+10008_01,partially agree,negligible,clarification
+10008_02,partially agree,negligible,addition
+10008_03,agree,negligible,correction
+10008_04,disagree,negligible,addition
+10008_05,partially agree,critical,correction
+10008_06,disagree,negligible,clarification
+10008_07,disagree,moderate,addition
+10009_01,agree,moderate,addition
+10009_02,agree,critical,correction
+10009_03,agree,critical,clarification
+10009_04,partially agree,critical,addition
+10009_05,partially agree,negligible,addition
+10009_06,partially agree,moderate,addition
+10009_07,partially agree,negligible,addition
+10009_08,disagree,negligible,clarification
+10009_09,disagree,negligible,addition
+10009_10,disagree,critical,addition
+10009_11,agree,moderate,addition
+10011_01,disagree,critical,correction
+10011_02,agree,negligible,clarification
+10011_03,partially agree,critical,addition
+10011_04,disagree,moderate,addition
+10011_05,agree,moderate,clarification
+10011_06,partially agree,critical,addition
+10014_01,partially agree,critical,addition
+10014_02,agree,negligible,clarification
+10014_03,disagree,moderate,addition
+10014_04,disagree,critical,correction
+10014_05,agree,negligible,clarification
+10014_06,agree,negligible,addition
+10014_07,agree,critical,clarification
+10014_08,disagree,negligible,correction
+10014_09,disagree,negligible,addition
+10014_10,disagree,moderate,clarification
+10014_11,disagree,negligible,clarification
+10014_12,disagree,moderate,correction
+10014_13,agree,critical,clarification
+10014_14,disagree,critical,addition
+10019_01,partially agree,negligible,addition
+10019_02,agree,moderate,clarification
+10019_03,agree,moderate,correction
+10019_04,agree,critical,addition
+10019_05,agree,critical,clarification
+10019_06,partially agree,critical,clarification
+10019_07,partially agree,critical,correction
+10019_08,agree,critical,addition
+10019_09,agree,critical,correction
+10020_01,disagree,negligible,clarification
+10020_02,disagree,negligible,correction
+10020_03,partially agree,moderate,clarification
+10020_04,partially agree,negligible,correction
+10020_05,partially agree,moderate,correction
+10020_06,agree,critical,correction
+10020_07,disagree,negligible,correction
+10020_08,partially agree,moderate,correction
+10020_09,partially agree,moderate,addition
+10020_10,disagree,moderate,correction
+10020_11,agree,negligible,correction
+10022_01,partially agree,critical,correction
+10022_02,agree,critical,clarification
+10022_03,agree,negligible,addition
+10022_04,disagree,critical,clarification
+10022_05,agree,critical,correction
+10022_06,disagree,moderate,correction
+10022_07,disagree,moderate,correction
+10022_08,disagree,negligible,clarification
+10022_09,partially agree,critical,addition
+10022_10,agree,critical,clarification
+10022_11,partially agree,critical,correction
+10022_12,partially agree,moderate,clarification
+10022_13,disagree,negligible,correction
+10022_14,disagree,moderate,correction
+10023_01,disagree,critical,correction
+10023_02,disagree,negligible,addition
+10023_03,partially agree,moderate,clarification
+10023_04,agree,moderate,correction
+10023_05,partially agree,critical,addition
+10023_06,disagree,critical,addition
+10024_01,partially agree,moderate,addition
+10024_02,partially agree,negligible,clarification
+10024_03,agree,critical,addition
+10024_04,agree,negligible,clarification
+10024_05,disagree,critical,addition
+10024_06,disagree,critical,correction
+10024_07,partially agree,negligible,correction
+10024_08,agree,negligible,addition
+10024_09,agree,critical,correction
+10024_10,partially agree,critical,correction
+10024_11,partially agree,critical,correction
+10024_12,agree,moderate,clarification
+10025_01,disagree,negligible,correction
+10025_02,agree,negligible,addition
+10025_03,agree,critical,clarification
+10025_04,disagree,moderate,correction
+10025_05,disagree,critical,clarification
+10025_06,disagree,negligible,correction
+10025_07,disagree,critical,clarification
+10025_08,agree,critical,clarification
+10025_09,disagree,moderate,addition
+10025_10,agree,critical,correction
+10025_11,partially agree,moderate,addition
+10026_01,agree,critical,clarification
+10026_02,disagree,negligible,clarification
+10026_03,disagree,moderate,correction
+10026_04,partially agree,negligible,correction
+10026_05,disagree,moderate,correction
+10026_06,disagree,moderate,addition
+10026_07,disagree,negligible,correction
+10026_08,agree,moderate,clarification
+10026_09,partially agree,negligible,clarification
+10026_10,agree,moderate,clarification
+10026_11,agree,moderate,clarification
+10026_12,partially agree,negligible,addition
+10026_13,partially agree,critical,addition
+10026_14,disagree,negligible,addition
+10029_01,agree,critical,clarification
+10029_02,disagree,negligible,clarification
+10029_03,partially agree,critical,correction
+10029_04,disagree,negligible,addition
+10029_05,disagree,critical,clarification
+10029_06,agree,moderate,correction
+10029_07,agree,critical,addition
+10029_08,agree,negligible,correction
+10029_09,agree,negligible,addition
+10029_10,partially agree,moderate,clarification
+10029_11,agree,negligible,addition
+10029_12,agree,critical,correction
+10029_13,agree,moderate,correction
+10030_01,partially agree,negligible,clarification
+10030_02,partially agree,moderate,correction
+10030_03,partially agree,moderate,addition
+10030_04,agree,critical,clarification
+10030_05,agree,critical,addition
+10030_06,disagree,moderate,correction
+10030_07,disagree,critical,correction
+10030_08,agree,negligible,correction
+10030_09,agree,moderate,clarification
+10034_01,disagree,critical,addition
+10034_02,disagree,negligible,clarification
+10034_03,agree,moderate,correction
+10034_04,agree,negligible,correction
+10034_05,partially agree,negligible,addition
+10035_01,agree,moderate,clarification
+10035_02,partially agree,moderate,addition
+10035_03,agree,critical,clarification
+10036_01,agree,moderate,addition
+10036_02,partially agree,moderate,addition
+10036_03,agree,critical,correction
+10036_04,partially agree,negligible,correction
+10036_05,agree,critical,addition
+10036_06,agree,negligible,addition
+10038_01,partially agree,moderate,addition
+10038_02,disagree,moderate,correction
+10038_03,disagree,negligible,correction
+10038_04,partially agree,moderate,addition
+10038_05,agree,negligible,clarification
+10038_06,agree,moderate,addition
+10038_07,partially agree,moderate,clarification
+10038_08,agree,critical,correction
+10038_09,partially agree,moderate,correction
+10038_10,disagree,critical,addition
+10038_11,partially agree,critical,correction
+10038_12,partially agree,negligible,addition
+10038_13,disagree,negligible,clarification
+10044_01,agree,negligible,clarification
+10044_02,disagree,negligible,correction
+10044_03,partially agree,moderate,addition
+10044_04,partially agree,negligible,addition
+10044_05,partially agree,moderate,addition
+10044_06,disagree,negligible,addition
+10044_07,agree,critical,correction
+10044_08,partially agree,moderate,clarification
+10045_01,agree,moderate,addition
+10045_02,agree,critical,correction
+10045_03,disagree,negligible,correction
+10045_04,agree,negligible,correction
+10045_05,partially agree,moderate,clarification
+10045_06,disagree,critical,clarification
+10047_01,partially agree,negligible,correction
+10047_02,disagree,critical,clarification
+10047_03,disagree,critical,correction
+10047_04,partially agree,critical,clarification
+10047_05,partially agree,moderate,clarification
+10047_06,agree,moderate,clarification

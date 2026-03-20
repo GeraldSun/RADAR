@@ -1,0 +1,22 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+*.log
+.DS_Store
+
+# python env
+venv/
+.venv/
+env/
+
+# large data / outputs
+outputs/
+checkpoints/
+models/
+*.pt
+*.bin
+*.ckpt
+
+# system
+tmp/

@@ -1,0 +1,76 @@
+[
+  {
+    "case_id": 11001,
+    "clinical_indication": "Shortness of breath, tachycardia, elevated D-dimer, rule out pulmonary embolism",
+    "preliminary_report_time": "overnight",
+    "edits": [
+      {
+        "edit_id": "11001_01",
+        "suggested_edit_text": "the right ventricular to left ventricular ratio is greater than 1.0, indicating significant right heart strain"
+      },
+      {
+        "edit_id": "11001_02",
+        "suggested_edit_text": "No filling defect is identified within the pulmonary arteries."
+      },
+      {
+        "edit_id": "11001_03",
+        "suggested_edit_text": "Saddle pulmonary embolus is present at the main pulmonary artery bifurcation extending bilaterally."
+      },
+      {
+        "edit_id": "11001_04",
+        "suggested_edit_text": "The right lower lobe peripheral opacity is consistent with a pulmonary infarct rather than infectious consolidation."
+      },
+      {
+        "edit_id": "11001_05",
+        "suggested_edit_text": "Large bilateral pleural effusions with associated compressive atelectasis are present."
+      },
+      {
+        "edit_id": "11001_06",
+        "suggested_edit_text": "the filling defect in the left lower lobar pulmonary artery extends into multiple segmental branches"
+      },
+      {
+        "edit_id": "11001_07",
+        "suggested_edit_text": "No evidence of pulmonary infarct or peripheral wedge-shaped opacity."
+      }
+    ]
+  },
+  {
+    "case_id": 11002,
+    "clinical_indication": "Right lower quadrant pain, fever, leukocytosis, rule out appendicitis",
+    "preliminary_report_time": "daytime",
+    "edits": [
+      {
+        "edit_id": "11002_01",
+        "suggested_edit_text": "The appendix is normal in caliber measuring 5 mm with no periappendiceal inflammatory change."
+      },
+      {
+        "edit_id": "11002_02",
+        "suggested_edit_text": "a 6 mm appendicolith is present at the base of the appendix"
+      },
+      {
+        "edit_id": "11002_03",
+        "suggested_edit_text": "Periappendiceal fat stranding is extensive with a small amount of free air adjacent to the appendix, consistent with perforated appendicitis."
+      },
+      {
+        "edit_id": "11002_04",
+        "suggested_edit_text": "the mildly prominent right lower quadrant mesenteric lymph nodes are the primary finding and suggest mesenteric adenitis rather than appendicitis"
+      },
+      {
+        "edit_id": "11002_05",
+        "suggested_edit_text": "A 4.5 x 3.8 cm right ovarian cyst is identified, which may be contributing to the patient's symptoms."
+      },
+      {
+        "edit_id": "11002_06",
+        "suggested_edit_text": "the appendix measures 12 mm with a surrounding periappendiceal abscess measuring 3.0 x 2.5 cm"
+      },
+      {
+        "edit_id": "11002_07",
+        "suggested_edit_text": "Acute sigmoid diverticulitis with focal microperforation is identified as an alternative explanation for the patient's symptoms."
+      },
+      {
+        "edit_id": "11002_08",
+        "suggested_edit_text": "No free fluid or periappendiceal inflammatory stranding is identified."
+      }
+    ]
+  }
+]
