@@ -1,6 +1,6 @@
 # RADAR Data
 
-This folder contains **example** data for the RADAR (Radiologist Attending Doctor Annotation Review) shared task.
+This folder contains **example** data for the RADAR shared task.
 
 ## Contents
 
