@@ -2,6 +2,8 @@
 
 This folder contains the official evaluation script and supporting files for the RADAR benchmark.
 
+The evaluator computes **four metrics** on the **mixed dev set**, which contains both naturally occurring edits and augmented edits. The `composite_score` is the primary ranking metric on the shared task leaderboard. In addition to scoring on the mixed set, submissions in the shared task will also be evaluated on a **hidden natural subset** (naturally occurring edits only) using the same four metrics.
+
 ## Contents
 
 | File | Description |

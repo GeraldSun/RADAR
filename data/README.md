@@ -21,6 +21,28 @@ A JSON array where each element contains:
   - `edit_id` — unique string identifier (e.g., `"10001_01"`)
   - `suggested_edit_text` — the proposed addition, correction, or clarification to the preliminary report
 
+## Images
+
+Each case is accompanied by one or more CT image series in DICOM format. Because the DICOM files are large and subject to the same Data Use Agreement as the text data, they are not included in this repository.
+
+When the full dataset is released, the image files should be placed under an `images/` subdirectory alongside the text data, following this layout:
+
+```
+data/
+  images/
+    dev/
+      <case_id>/
+        <series_folder>/    # e.g. ABD_PEL, LUNG_2.5mm
+          *.dcm
+  dev_preliminary_report/
+    <case_id>.txt
+  dev_edits.json
+```
+
+The `<case_id>` directory names match the integer identifiers used in the edits JSON and the report filenames. Each `<series_folder>` contains the DICOM slices for one CT acquisition series. Utility scripts for browsing series metadata and selecting the most relevant series per edit are provided in the `tools/` folder.
+
+---
+
 ## Requesting the Full Dataset
 
 The example files in this folder are provided for reference only. The full RADAR dataset contains 50 de-identified cases and is subject to a **Data Use Agreement (DUA)**.
