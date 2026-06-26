@@ -108,7 +108,7 @@ See [`eval/`](eval/) for the evaluation script and submission format details.
 
 ---
 
-## Requesting the Full Dataset
+## Data
 
 The example files in this folder are provided for reference only. The full RADAR dataset contains 50 de-identified cases and is subject to a Data Use Agreement (DUA). To request access to the full dataset, please contact: zhaoyis@uw.edu and melihay@uw.edu
 
