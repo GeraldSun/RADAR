@@ -108,11 +108,13 @@ See [`eval/`](eval/) for the evaluation script and submission format details.
 
 ---
 
-## Data
+## Requesting the Full Dataset
 
-The repository contains **example data** for two cases. The full RADAR dataset (50 de-identified abdominal CT examinations with expert annotations) is subject to a Data Use Agreement.
+The example files in this folder are provided for reference only. The full RADAR dataset contains 50 de-identified cases and is subject to a Data Use Agreement (DUA). To request access to the full dataset, please contact: zhaoyis@uw.edu and melihay@uw.edu
 
-See [`data/`](data/) for format documentation and access instructions.
+Your request should include your name, institutional affiliation, and a brief description of your intended use. A signed DUA is required before data will be released.
+
+Participants in the ImageCLEFmed MEDIQA-CORE 2026 shared task may access the dataset through the official competition platform.
 
 ---
 
