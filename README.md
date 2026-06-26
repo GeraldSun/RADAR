@@ -129,10 +129,10 @@ Four baseline notebooks are provided in [`baselines/`](baselines/), covering two
 This work is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Please cite our paper if you use the RADAR dataset or framework:
 
 ```bibtex
-@article{sun2026radar,
+@inproceedings{sun2026radar,
   title     = {RADAR: A Multimodal Benchmark for 3D Image-Based Radiology Report Review},
   author    = {Sun, Zhaoyi and Jagtiani, Minal and Yim, Wen-wai and Xia, Fei and Gunn, Martin and Yetisgen, Meliha and Ben Abacha, Asma},
-  journal   = {arXiv preprint arXiv:2603.06681},
+  booktitle   = {Medical Image Computing and Computer Assisted Intervention - MICCAI 2026 - 29th International Conference, Strasbourg, France},
   year      = {2026}
 }
 ```
@@ -141,5 +141,5 @@ Contact
 =================
     - Zhaoyi Sun (zhaoyis [at] uw.edu)
     - Meliha Yetisgen (melihay [at] uw.edu)
-    - Asma Ben abacha (abenabacha [at] microsoft.com)
+    - Asma Ben Abacha (abenabacha [at] microsoft.com)
 ----
