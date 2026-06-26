@@ -47,7 +47,7 @@ The `<case_id>` directory names match the integer identifiers used in the edits 
 
 The example files in this folder are provided for reference only. The full RADAR dataset contains 50 de-identified cases and is subject to a **Data Use Agreement (DUA)**.
 
-To request access to the full dataset, please contact the authors listed in the [paper](https://arxiv.org/abs/2603.06681).
+To request access to the full dataset, please contact zhaoyis@uw.edu and melihay@uw.edu.
 
 Your request should include your name, institutional affiliation, and a brief description of your intended use. A signed DUA is required before data will be released.
 
