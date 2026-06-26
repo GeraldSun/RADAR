@@ -44,8 +44,8 @@ The RADAR dataset is also the foundation of **Task 2: Report Discrepancy Summari
 
 
 - **Platform:** [AI4MediaBench](https://ai4media-bench.aimultimedialab.ro/competitions/7/)
-- **Task:** ImageCLEFmed MEDIQA-CORE 2026, Task 2
-- **Organizer:** Microsoft and University of Washington
+- **Task:** ImageCLEFmed MEDIQA-CORE 2026, Task 2 [Website](https://www.imageclef.org/2026/medical/mediqa-core) 
+- **Organizers:** Asma Ben Abacha, Zhaoyi Sun, Wen-wai Yim, Fei Xia and Meliha Yetisgen
 
 ---
 
@@ -108,9 +108,9 @@ See [`eval/`](eval/) for the evaluation script and submission format details.
 
 ---
 
-## Data
+## Dataset
 
-The example files in this folder are provided for reference only. The full RADAR dataset contains 50 de-identified cases and is subject to a Data Use Agreement (DUA). To request access to the full dataset, please contact: zhaoyis@uw.edu and melihay@uw.edu
+The example files in this folder are provided for reference only. The full RADAR dataset contains 50 de-identified cases and is subject to a Data Use Agreement (DUA). To request access to the full dataset, please contact: zhaoyis [at] uw.edu and melihay [at] uw.edu
 
 Your request should include your name, institutional affiliation, and a brief description of your intended use. A signed DUA is required before data will be released.
 
@@ -124,9 +124,9 @@ Four baseline notebooks are provided in [`baselines/`](baselines/), covering two
 
 ---
 
-## Citation
+## License and Citation
 
-If you use RADAR in your research, please cite:
+This work is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). Please cite our paper if you use the RADAR dataset or framework:
 
 ```bibtex
 @article{sun2026radar,
@@ -136,3 +136,10 @@ If you use RADAR in your research, please cite:
   year      = {2026}
 }
 ```
+
+Contact
+=================
+    - Zhaoyi Sun (zhaoyis [at] uw.edu)
+    - Meliha Yetisgen (melihay [at] uw.edu)
+    - Asma Ben abacha (abenabacha [at] microsoft.com)
+----
