@@ -49,6 +49,6 @@ The example files in this folder are provided for reference only. The full RADAR
 
 To request access to the full dataset, please contact zhaoyis@uw.edu and melihay@uw.edu.
 
-Your request should include your name, institutional affiliation, and a brief description of your intended use. A signed DUA is required before data will be released.
+Your request should include your name, institutional affiliation, and a brief description of your intended use. Please submit this information for pre-approval. If your request is approved, a Data Use Agreement (DUA) will be sent to you by the University of Washington (UW) for you to complete and sign. Once the signed DUA is received and approved by UW, access to the dataset will be granted.
 
 Participants in the [ImageCLEFmed MEDIQA-CORE 2026 shared task](https://ai4media-bench.aimultimedialab.ro/competitions/7/) may access the dataset through the official competition platform.
